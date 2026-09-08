@@ -1,0 +1,24 @@
+
+* Key Questions
+The following key questions arise insofar as the article is concerned:
+1. What is an AI intangible and what are the intangibles that can be created within the AI structure?
+   There is a model. A model takes an input and gives out AI-generated output. There are two forms of models: a black box model and a transparent or white box model. A transparent model has its weights and its reasoning structure open for sculpting whereas a black box model does not. This changes the manner in which the pricing of these models and its valuation is to be determined. For our clear model its weights and its reasoning process are much clearer, which is why it is easier to understand what the specific data is, what methods it is relying on, and what its actual competence is. In a black box model since the procedure and the underlying reasoning are unavailable to anybody auditing the model, it is impossible for us to really understand the value and the manner in which it comes to the value of the model as well as the manner in which it comes to its components.
+2. Another important role is the role of training data, which I want to focus on in this particular paper. The fundamentals of training data involve a volume of text that is used to train the underlying model and this volume of text defines how the model fundamentally functions. In the new AI-based economy we will see that this training data, this volume of text, is also going to have a market of its own.
+3. How is it that Anthropic's IPO or the OpenAI IPO has valued the underlying models which they are going to sell? How is it that these models have been valued and how is it that OpenAI has found a mechanism for the valuation of these models when it was making its IPO? Although IPO valuations are largely prospective in nature, they are looking at future revenue. Even that could be quite helpful insofar as TP analysis is concerned.
+4. Can a general capability centre of GCC acquire its own intangibles over time? If a U.S. foundational model developer creates an Angular-based GCC and transfers the AI training weights or the model, can it, through its particular process of development, develop some intangibles over time? If that is possible then the entire TEMPE capital framework really changes.
+5. Whether any of the transferred intangibles are embedded intangibles or not. If the model is being transferred, are the training data embedded intangibles?
+6. Round tripping in the context of AI GCCs. Round tripping is where there is an output and an input simultaneously. A manufacturing outsourcing company might input intangibles and obtain an output of the manufactured final product. Is that the relationship that the GCC, and the parent company will have?
+7. Do location-based savings apply in India.
+8. Is there a coalition of models that I can structure together and then sell it as its own commodity?
+9. Is the Brazilian structure suited. It involves deductions from net sales.
+10. How do the changes to the definition of associated enterprise (AE) in the new act change the TP implications of the present issue, as compared to the old act?
+11. What are hidden intangibles, and does training data constitute a hidden intangible?
+12. Is income from training data royalty? Since the meaning that is given under Article 12 is not inclusive and is exhaustive.
+13. How is the AI industry structured in the first place?
+14. How are trade secrets and AI training data understood and considered under the current IP law scholarship?
+15. What is the mechanism in which training data is used?
+16. How is the training data for a specific model different from data for a general model?
+17. What are the existing rules for the disclosure of training data and weights insofar as general models are concerned under the EU AI Act?
+18. Are trade secrets or AI training data a secret formula or process, as provided under the definition of royalty in Article 12?
+19. Does training data constitute "knowhow"?
+20. Does data constitute knowledge, and if so, is it specialist knowledge, is it data, information, or is it experience, since scientific and technical experience is are words that are used in the Article 12 definition?
