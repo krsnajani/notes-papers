@@ -12,7 +12,9 @@ The Court discribed writs as a plenary power of the Union. It is not limited by 
 
 A citizen can direct enforce or move the citizen for the enforcement of fundamental rights. Still in practice the Court has developed the principal of self restraint. Where a matter is genuinely a matter of fact, the Courts have relegated it to a Tribunal, or a speciified Court. Where it is concerning the rights or principles of NJ, Art. 32 is imposed.
 
-A writ is not an appeal. TC Bassappa v. T. Nagappa - Writ is available to correct excess of jurisdiction or correct an error of law apprant on the face of the record, though this does not lead to a determination on the facts of the case. Sayyed Yakub v. Radhakrishnan - The Court also mentioned that an error of fact, however serious is outside the reach of certiorari unless the finding of fact relies on no evidence. In that case it is simply an error of law in the first place.
+A writ is not an appeal. TC Bassappa v. T. Nagappa - Writ is available to correct excess of jurisdiction or correct an error of law apprant on the face of the record, though this does not lead to a determination on the facts of the case. 
+
+Sayyed Yakub v. Radhakrishnan - The Court also mentioned that an error of fact, however serious is outside the reach of certiorari unless the finding of fact relies on no evidence. In that case it is simply an error of law in the first place.
 
 # General Principles of Writ Jurisdiction
 
@@ -116,3 +118,16 @@ Federal Bank Ltd. v. Sagar Thomas (2003) - Pvt. Scheduled Bank dismissed an empl
 		- Manifest error of law manifest on the face of the law
 - Yakub v. Radhakrishnan
 - State of Odisha v. Dr. (Miss) Binapani Dei - State argued that the order which corrected the DOB was an administrative order, an administrative determination of facts outisde the ambit of NJ. The Court held that even a administrative order that has a civil outcome should be subject to the writ jurisdiction of the Court, be given a chance to make their case.
+
+
+---
+
+Mon Sep 14 08:18:50 IST 2026
+
+# Key Decisions
+
+- Whirpool:  Pg. 4 Jurisdiction of the High Court in entertaining a WP in spite of the alternative statutory remedies
+
+
+
+The work of mandamus petition
