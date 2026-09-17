@@ -72,7 +72,7 @@ John Robert v. UoI
 
 Tue Sep  8 09:55:33 IST 2026
 
-# Constitutl Theory
+# Constitutional Theory
 
 In comparative constitutional theory, constituent assemblies are fundamentally shaped by how delegates are selected and the upstream procedural and substantive constraints imposed by convening authorities. In both the United States and post-war Germany, delegates were appointed by state legislatures, with the Allied occupying powers in Germany mandating that delegate allocation be strictly proportional to state populations—a principle also seen in India’s Constituent Assembly, which allocated roughly one representative per ten lakh people. By contrast, delegates to the 1789 French Estates-General were divided among the Three Estates, with the Crown granting the Third Estate doubled representation to equal the clergy and nobility combined. Beyond delegate selection, upstream actors—such as legislatures, monarchs, or occupying forces—routinely attempt to bind constituent bodies through procedural rules or substantive mandates. In the United States, the Continental Congress explicitly instructed the Philadelphia Convention merely to revise the Articles of Confederation rather than replace them, while small states like Delaware bound their delegates to safeguard equal state voting power. In France, upstream mandates from conservative factions and the Crown sought an absolute royal veto and insisted on voting by estate rather than by head to neutralize the Third Estate's numerical advantage. Similarly, in post-war Germany, the Allied powers imposed a strict substantive constraint requiring a decentralized, federal structure that empowered the states (Länder) while intentionally limiting central federal authority to prevent the resurgence of an authoritarian regime.
 
@@ -128,6 +128,18 @@ Mon Sep 14 08:18:50 IST 2026
 
 - Whirpool:  Pg. 4 Jurisdiction of the High Court in entertaining a WP in spite of the alternative statutory remedies
 
+---
 
+# Impossibility of Legal Transplaint
 
-The work of mandamus petition
+Alan Watson's Book - Legal Transplants.  His position is that law is independent from the workings of a social historical or cultural substratum. He thus argued that transplanting of legal rules is easy. The interest theory suggests that social, private and personal interest will develop 'law', that the law is thus a means for social engineering. Yet, Watson takes the position as Kelson that there is a pure theory of law. That the corporatist should be concern only with the existence of similar rules, and must be looked at in restrictive sense to statutory rules, considered in isolation from society.
+
+He argues that where the rules of contract of law of England and Scotland, then the historical, legal and cultural context of the two jurisdictions need not be analysed for that may be "too academic." Many scholarly persons are deeply troubled by historical factors which are produced by habits of thought. Although it may be argued that Scotland has obtained its Contract Law through France, that history and practice has no "
+
+If that were the case, Legrand argues, one unitary document could be used to govern all legal systems in the World. Such is clearly not the case. He disagrees with this view. Law also has a cultural baggage. 
+
+But one who accepts "legal transplant" argument, must agree that law is nothing but a sum of rules. These rules are bare "propositional statements." He would further have to accept that the law is an unencumbered autonomous entity which is devoid of any "historical, epistemic and cultural bargain."
+
+No rule can be without meaning. Meaning is its essential component. But that meaning is not supplied by the rule itself. The meaning of a rule is "acontextual" since a meaning of a rule exists even before "interpretative tools" are put before it. It thus has a "a priori" meaning. But beyond that, the meaning of the rule is within the "epistemic assumptions" which are again, logically and historically conditioned.
+
+The pre-judices (which is used in the epistemic sense and not necessarily negatively) are forged through schooling, where one develops dispositions and the practical consiousness, cultural code.

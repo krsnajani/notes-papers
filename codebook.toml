@@ -1,1 +1,2 @@
 words = ["Thackersey"]
+ignore_paths = ["SC.md"]
