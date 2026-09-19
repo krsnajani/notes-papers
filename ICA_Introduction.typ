@@ -34,6 +34,7 @@
   Clause 6 of the settlement agreement showed that the arbitration was to be resolved in Zurich in accordance with the rules of ICC in _Mankatsu Impex_ where it was seen that the phrase "administered in Hong Kong" was conclusive in choosing the seat of arbitration.
 
   PASL had tried to argue that the closest connection test binds the tribunal to Mumbai. However, the court clarified that the closest connection test is not applicable in a case where the parties have explicitly chosen a seat.
+
 2. That Part 1 and Part II of the act are mutually exclusive and the proviso to section 2(2) is not a bridge connecting both parts.
 
   Part 1 deals with arbitrations where the seat is in India and has no application in a foreign seated arbitration.
@@ -61,3 +62,25 @@
   The jurisdiction of the New York Convention is wider because it does not require parties to be from different contracting states and it introduces the idea of non-domestic award where even if the award is made physically within the enforcing state on the basis of the procedural law applicable, it may still constitute a foreign award.
 
   This is why the court is of the opinion that section 44 which mirrors the non-domestic criteria allows for Indian parties to have foreign-seated arbitrations which are exclusively governed by Part II of the Arbitration Act
+
+== L&T v. MMRDA
+
+Court was asked to determine whether an arbitration involving a consortium of companies which included an Indian company and a Malaysian company could qualify as an international commercial arbitration.
+
+It was held that the consortium *did not qualify as an international commercial arbitration* since it was an _association of persons_ under section 2(1)(f) clause (iii). The lead member of the consortium was L&T which was an Indian company and the company's office was located in Mumbai. Hence, therefore, the central management and control of the consortium was exercised in India and the requirements of 2(1)(f)(iii) were not satisfied.
+
+
+== Definition of "commercial" - RM Investment v. Boeing
+
+The Supreme Court in RM Investment and Trading Co. Pvt Ltd. vs. Boeing in 1994, laid down a broad and liberal test of determining whether a relationship was commercial in nature.
+
+In this case, RMI was to provide consultancy services to Boeing. RMI argued that the consultancy services were not in the nature of a commercial agreement. However, the court rejected this contention since the sale of aircrafts by Boeing was, an commercial transaction and the consultancy services rendered by RMI were ancillary to the commercial transaction and were itself commercial in nature.
+
+Under the definition of international commercial arbitration, the relation between parties must be in commercial accordance with Indian law. The broad facets of these are as follows
+
+- The nature of services
+- Active role in trade
+- Payment terms
+- Interpretation and object of the act
+
+The consultant played an important role in the sale of aircrafts and therefore it was commercial in nature.
