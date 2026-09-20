@@ -8,9 +8,8 @@ In *Trout v. Organización Mundial de Boxeo Inc*. The U.S. Court of Appeals inva
 
 Having found such procedure unconscionable, the First Circuit did not invalidate the entire agreement. It rather demanded that Puerto Rico Court's determine whether the selection clause was severable from the rest of the agreement. On remand, the district court ultimately severed the invalidated selection provision and ordered the parties to meet and confer on selecting arbitrators.
 
-Judicial precedents are focused on the following aspects:
 
-1. Arbitration is a matter of contract therefore courts must recognize the party's right to appoint an arbitrator and to *choose an appointment mechanism of their choice.* However, party autonomy is not unbridled and therefore section 2 of the Federal Arbitration Act allows the court to invalidate an arbitration clause if it violates grounds that exist in equity for the revocation of a contract since unconscionability is a ground for invocation of contract on equity. It is also a ground for invalidating an arbitration agreement.
+1. Arbitration is a matter of contract therefore courts must recognize the party's right to appoint an arbitrator and to *choose an appointment mechanism of their choice.* However, party autonomy is not unbridled and therefore Section 2 of the Federal Arbitration Act allows the court to invalidate an arbitration clause if it violates grounds that exist in equity for the revocation of a contract since unconscionability is a ground for invocation of contract on equity. It is also a ground for invalidating an arbitration agreement.
 2. There is no uniform definition of unconscionability However courts have followed a palpable pattern where it can be categorized into two subsets
   1. *Substantive Unconscionability*
      It refers to a condition where the terms of the contract are unreasonable and skewed in favour of one party such that it _"shocks the conscience"_ of the Court. It focuses on the fairness of the terms themselves
@@ -67,8 +66,34 @@ However in *Tatia Constructions Limited* a three judge bench disagreed with the 
 - The previous decisions in CORE mandate that the contractor select the arbitrator from the curated panel which is restrictive and the curation of the panel is exclusively undertaken by the GM. This is against the principle of equal treatment
 - An amendment under section 12 was introduced in 2015. Clause 5 of Section 12 now contains a non-obstantee clause whereby notwithstanding prior agreement to the contrary, a person whose relationship falls within the Seventh Schedule shall be ineligible to be appointed as arbitrator.
 
-==== Key US Precdents Discussed by the Court
+==== International Position
 
 The US position was also discussed extensively by the Supreme Court. Court relied on the principle of unconscionability and equity originally developed in the US to support their observation.
 
 In *Hooters of America vs. Phillips*, the agreement allowed Hooters to create an exclusive list of arbitrators from which the employees arbitrator and the neutral arbitrator had to be selected. This gave Hooters control over the entire panel and created a system that was completely one-sided. On the basis of Section 2 of the Federal Arbitration Act the Court refused to enforce the agreement.
+
+#line()
+
+*England and Wales* -
+English courts have upheld asymmetric jurisdiction and arbitration clauses since they believe in a strong principle of party autonomy. There is a deference to the freedom of contract.
+
+*Singapore* -
+Singapore law recognises the validity of unilateral appointment clauses. In *Wilson Taylor Asia vs. Dinah Jet*, Court of Appeal confirmed that lack of mutuality does not render the clause invalid.
+
+*Hong Kong* -
+Hong Kong follows the common law approach and upholds the validity of isometric clauses.
+
+*EU* -
+Historically, the French courts have viewed asymmetric clauses as creating imbalance. However, in the Lastre Decision, the Court of Justice ruled that asymmetric jurisdiction clauses are valid under EU law *if they are based on party autonomy.*
+
+*Germany* -
+German courts have held that unilateral appointment clauses are valid unless they violate _boni mores_ or good morals and represent an unreasonable disadvantage to the other party.
+
+*China* -
+PRC courts have had an inconsistent approach. However, in 2023, the Beijing Financial Court upheld the validity of an asymmetric arbitration clause. However, the court was persuaded by the fact that both commercial entities had equal bargaining power, and the clause was a result of negotiations.
+
+*United States* -
+As discussed earlier, unilateral appointment clauses are hit by unconscionability through the provisions of the Federal Arbitration Act. However, some other state jurisdictions have upheld such clauses and favored a case-by-case flexible approach.
+
+*UAE and Russia* -
+They have indicated that asymmetric jurisdiction clauses are unenforceable since they violate equality and fairness.
