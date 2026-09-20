@@ -66,11 +66,28 @@ However in *Tatia Constructions Limited* a three judge bench disagreed with the 
 - The previous decisions in CORE mandate that the contractor select the arbitrator from the curated panel which is restrictive and the curation of the panel is exclusively undertaken by the GM. This is against the principle of equal treatment
 - An amendment under section 12 was introduced in 2015. Clause 5 of Section 12 now contains a non-obstantee clause whereby notwithstanding prior agreement to the contrary, a person whose relationship falls within the Seventh Schedule shall be ineligible to be appointed as arbitrator.
 
+=== Perkins v. HSCC
+
+
+
+
 ==== International Position
 
 The US position was also discussed extensively by the Supreme Court. Court relied on the principle of unconscionability and equity originally developed in the US to support their observation.
 
 In *Hooters of America vs. Phillips*, the agreement allowed Hooters to create an exclusive list of arbitrators from which the employees arbitrator and the neutral arbitrator had to be selected. This gave Hooters control over the entire panel and created a system that was completely one-sided. On the basis of Section 2 of the Federal Arbitration Act the Court refused to enforce the agreement.
+
+*Halliburton v. Chubb*
+The UK Supreme Court held that there was a duty of disclosure for arbitrators in English law however parties by agreement could waive this duty.
+
+The facts of the case involved an ad hoc arbitration that was seated in London, and governed by the laws of New York. Halliburton sought removal of the presiding arbitrator on the ground that he had failed to disclose certain appointments which had given doubt to his impartiality.
+
+The Act places no obligation on potential arbitrators to make disclosure to parties. However, the Supreme Court in Halliburton found that the duty of disclosure was implicitly based in section 33. The legal obligation to disclose matters is encompassed within the obligation of fairness. Similarly, as the Indian Supreme Court held in _CORE II_ disclosure and equality are coextensive.
+
+
+Here is where the problem begins. Section 33 falls within a subset of sections that can not be waived. The parties cannot by agreement waive the arbitration Tribunal's responsibility to act fairly. The Court in _Halliburton_ found that it could be waived by agreement. A possible justification is that the Court found this responsibility to have been impliedly incorporated in a "contract" between the parties. Such a contractual duty, based on statutory mandate, could in theory be waived by agreement.
+
+However it is not clear how the Court jumped from "statute" to "contract" in this case.
 
 #line()
 
