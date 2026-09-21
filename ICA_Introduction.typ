@@ -72,7 +72,7 @@ It was held that the consortium *did not qualify as an international commercial 
 
 == Definition of "commercial" - RM Investment v. Boeing
 
-The Supreme Court in RM Investment and Trading Co. Pvt Ltd. vs. Boeing in 1994, laid down a broad and liberal test of determining whether a relationship was commercial in nature.
+The Supreme Court in *RM Investment and Trading Co. Pvt Ltd. vs. Boeing* in 1994, laid down a broad and liberal test of determining whether a relationship was commercial in nature.
 
 In this case, RMI was to provide consultancy services to Boeing. RMI argued that the consultancy services were not in the nature of a commercial agreement. However, the court rejected this contention since the sale of aircrafts by Boeing was, an commercial transaction and the consultancy services rendered by RMI were ancillary to the commercial transaction and were itself commercial in nature.
 

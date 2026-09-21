@@ -68,8 +68,15 @@ However in *Tatia Constructions Limited* a three judge bench disagreed with the 
 
 === Perkins v. HSCC
 
+The arbitration agreement stipulated that HSCC's chairman would appoint a sole arbitrator. When disputes arose, the chairman was unable to appoint an arbitrator within the 30-day period, and the chief general manager attempted to appoint an arbitrator prompting Perkins to approach the Supreme Court under Section 11.
 
+The code placed its analysis on the precedent established in *TRF Limited vs. Energo.* This was also relied upon by the court in CORE II.
 
+In _TRF_ the arbitration agreement stated that the managing director could either act as arbitrator or nominate one. The Court invalidated the clause on the grounds that where the MD was himself barred to act as an arbitrator, he could also not nominate an arbitrator.
+
+Perkins extended this logic to a different scenario. In this case, even though the chairman was not authorized to act as an arbitrator himself, the court found that the fundamental reason for ineligibility is the interest of the appointing authority in the outcome of the proceedings. The court laid down that a person with an interest in the dispute will not have the power to appoint the arbitrator.
+
+However a carve-out was made for situations where both parties are empowered to appoint an arbitrator.
 
 ==== International Position
 
