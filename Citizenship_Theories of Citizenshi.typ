@@ -1,5 +1,8 @@
-= Theories of Citizenship
+#set align(center)
 
+= Theories of Citizenship
+#set align(left)
+#set par(justify: true)
 // Renders the four-theory "Theories of Citizenship Spectrum" diagram.
 #let citizenship-spectrum() = {
   let col(name, sub) = block(
