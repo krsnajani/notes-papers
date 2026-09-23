@@ -649,9 +649,20 @@ For blocks in Category II and III basins, the following concessions apply:
 = The Licensing and Leasing Framework
 <licensing-and-leasing-framework>
 
+#strong[Note on temporal scope.] This section describes the framework as it
+stood *before the ORD Amendment Act 2025*. The two-instrument structure set
+out here has since been replaced by a single "petroleum lease" --- see
+#link(<ord-amendment-2025>)[The Oilfields (Regulation and Development)
+Amendment Act 2025] below. The pre-amendment framework is retained here for
+three reasons: it governs blocks awarded under the earlier regimes, which
+continue to be regulated by the regime in force when they were awarded; the
+substantive differences between exploration and production obligations have
+not disappeared merely because the instruments have merged; and the reform
+is only intelligible against the baseline it replaced.
+
 Under the ORD Act 1948 and the PNG Rules 1959, the State's mineral rights
 to oil and natural gas are transferred to participants through an auction
-process. Two distinct instruments are used:
+process. Two distinct instruments were used:
 
 + *Licence (Petroleum Exploration Licence, PEL).* Granted for the
   exploration and appraisal stage. A licence does _not_ grant any
@@ -701,7 +712,7 @@ process. Two distinct instruments are used:
      date of grant of lease],
   )]
   , kind: table
-  , caption: [Standard licence and lease terms]
+  , caption: [Standard licence and lease terms (pre-2025)]
 )
 
 == Legal Status of the Rights
@@ -712,6 +723,12 @@ in character. They are contractual because they arise under the PSC or
 RSC and the licence or lease. They are regulatory because certain terms
 of the licence or lease are embodied in the PNG Rules 1959, and because
 the rights are subject to pervasive government control.
+
+Under the pre-2025 framework the distinction between licence and lease
+carried a substantive legal consequence: a licence conferred no interest
+in the hydrocarbons, whereas a lease conferred an interest to extract,
+utilise or sell them. The transition from licence to lease therefore
+marked the point at which the participant acquired a proprietary interest.
 
 == The Management Committee
 <management-committee-help>
@@ -1555,9 +1572,50 @@ exploration and mining differ fundamentally in both method and impact. The
 practical mischief was that using the same term *delayed petroleum
 exploration operations by requiring irrelevant permits and licences*.
 
+=== The Single Petroleum Lease
+
 This also removes the requirement of applying twice to government --- once
 for a licence and again for a lease --- by introducing a single definition
-of "petroleum lease" applicable to both exploration and development.
+of "petroleum lease" applicable to both exploration and development. The
+statutory definition is:
+
+#quote[
+  "Petroleum lease" means a lease granted on or after the commencement of
+the Oilfields (Regulation and Development) Amendment Act, for the purpose
+of prospecting, exploration, development, production, making merchantable,
+carrying away or disposing of mineral oils or for purposes connected
+therewith, and includes a mining lease granted before the commencement of
+the said Act.
+]
+
+The single instrument therefore spans the whole life-cycle, from
+prospecting through to disposal. This supersedes the two-instrument
+structure described in #link(<licensing-and-leasing-framework>)[The
+Licensing and Leasing Framework] above.
+
+=== What Survives of the PEL/PML Distinction
+
+The distinction is abolished for *new* grants, but three qualifications
+matter:
+
++ *Existing grants are preserved, not invalidated.* The definition
+  expressly *includes* a mining lease granted before commencement. Blocks
+  awarded under an earlier regime continue to be governed by the
+  regulations of that regime, even after amendment.
+
++ *The substantive differences remain.* Exploration and production are
+  still different activities with different obligations --- work programme
+  completion on the one hand, commencement of commercial production on the
+  other. Merging the instruments does not merge the obligations; a single
+  lease must still accommodate both stages.
+
++ *The proprietary-interest question is unresolved on the face of the
+  definition.* Under the old framework, a licence conferred no interest in
+  the hydrocarbons while a lease conferred an interest to extract, utilise
+  or sell them. How a single instrument spanning both stages handles that
+  transition --- and at what point the participant acquires an interest ---
+  is not answered by the Amendment Act itself. The Draft Petroleum and
+  Natural Gas Rules 2025 are likely to address it.
 
 == Expanded Definition of "Mineral Oils"
 <expanded-mineral-oils>
